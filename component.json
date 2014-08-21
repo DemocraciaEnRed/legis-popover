@@ -1,0 +1,14 @@
+{
+  "name": "legis-popover",
+  "repo": "component/legis-popover",
+  "description": "Legis Popover theme",
+  "version": "0.0.1",
+  "keywords": ["legis", "popover", "theme"],
+  "dependencies": {
+    "component/aurora-tip": "*"
+  },
+  "development": {},
+  "styles": [
+    "legis-popover.css"
+  ]
+}
